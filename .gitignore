@@ -2,3 +2,6 @@
 /.classpath
 /.project
 /.settings/
+.idea
+attendance-check.iml
+src/main/resources/reports
